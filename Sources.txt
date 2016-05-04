@@ -1,0 +1,12 @@
+P4 sources
+
+starry_starry_sky.jpg from http://scrapbee.deviantart.com/art/Starry-Starry-Sky-3-171692432
+puffycloud.jpg from http://naldzgraphics.net/freebies/33-free-cloud-textures-to-capture-your-interest/
+shingles.jpg from https://www.flickr.com/photos/md9/2479075233/in/gallery-48035270@N08-72157623574478790/
+dirtTexture.jpg from http://www.texturemate.com/content/free-texture-dirt-2010081601
+fire.jpg from http://blueblots.com/textures/free-fire-texture/
+Help with particle effects:
+	http://www.jeshua.me/blog/StatefulTexturedParticleEffectsinWebgl
+	http://www.learnopengl.com/#!In-Practice/2D-Game/Particles
+Heavily referenced the THREE.js documentation
+	http://threejs.org/docs/
